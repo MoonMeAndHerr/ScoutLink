@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "673253843786",
+    "project_id": "scoutlink-ba6fb",
+    "storage_bucket": "scoutlink-ba6fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673253843786:android:bf44211b377a9e498517b3",
+        "android_client_info": {
+          "package_name": "com.example.scoutlink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkzlu3cVj-EZhdq42VRA0uw--nMMQPfiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
